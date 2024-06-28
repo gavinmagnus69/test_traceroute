@@ -1,6 +1,10 @@
 # traceroute
 
 traceroute - print the route packets trace to network host
+## Dependencies
+Google tests libriary
+
+https://github.com/google/googletest/blob/main/googletest/README.md
 
 ## Build
 
