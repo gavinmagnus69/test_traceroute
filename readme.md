@@ -34,7 +34,7 @@ sudo ./traceroute <host> [options]
         -q nqueries --queries nqueries    Set the number of probes per each hop. Default is 1
     
     Arguments:
-        host    The host to traceroute to\n";
+        host    The host to traceroute to
 
 ## Testing
 
