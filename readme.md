@@ -17,8 +17,8 @@ traceroute - print the route packets trace to network host
  ```
 
 ## Run
-
-You'll need sudo
+In build folder.
+You'll need sudo.
 
 ```sh
 sudo ./traceroute <host> [options] 
@@ -37,8 +37,8 @@ sudo ./traceroute <host> [options]
         host    The host to traceroute to
 
 ## Testing
-
-You'll need sudo
+In build folder.
+You'll need sudo.
 
 ```sh
 sudo ./testing
